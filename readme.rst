@@ -1,3 +1,4 @@
+Ini Adalah Pengembangan dari multisri_wizard. jika ingin dijalankan pada localhost menjadi http://localhost/multisri_wizard/
 ###################
 What is CodeIgniter
 ###################

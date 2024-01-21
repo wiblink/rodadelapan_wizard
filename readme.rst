@@ -1,4 +1,4 @@
-Ini Adalah Pengembangan dari multisri_wizard. jika ingin dijalankan pada localhost menjadi http://localhost/multisri_wizard/
+Ini Adalah Pengembangan dari multisri_wizard. jika ingin dijalankan pada localhost menjadi http://localhost/multisri_wizard/ versi PHP : php-7.1.33-Win32-VC14-x64
 ###################
 What is CodeIgniter
 ###################
